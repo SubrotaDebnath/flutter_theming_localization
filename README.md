@@ -1,4 +1,4 @@
-# flutter_theming_localization
+# Flutter Theming and Localization with BloC
 
 ## Objective
     1. Theme Settings
