@@ -11,20 +11,19 @@
         2.2. Bengali
 
 ## Packages
-- [package_1](https://flutter.dev/docs/get-started/codelab)
-- [package_2](https://flutter.dev/docs/cookbook)
-- [package_3](https://flutter.dev/docs/get-started/codelab)
-- [package_4](https://flutter.dev/docs/cookbook)
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [shared_preferences](https://pub.dev/packages/shared_preferences)
+- [equatable](https://pub.dev/packages/equatable)
 
 ## Screen Shorts
 
 ## Documentation URL
 
 ## Say Hi to me
-- [LinkedIn](https://flutter.dev/docs/get-started/codelab)
-- [Facebook](https://flutter.dev/docs/cookbook)
-- [Twiter](https://flutter.dev/docs/get-started/codelab)
-- [Instragram](https://flutter.dev/docs/cookbook)
+- [LinkedIn](https://www.linkedin.com/in/subrota-debnath/)
+- [Facebook](https://www.facebook.com/Subrota.Debnath.Shuvro/)
+- [Twitter](https://twitter.com/debnath_subrota)
+- [Instagram](https://www.instagram.com/subrota_shuvro/)
 
 
 
