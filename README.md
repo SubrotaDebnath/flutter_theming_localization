@@ -1,6 +1,10 @@
 # flutter_theming_localization
 
-A new Flutter project.
+# Objective
+    1. Theme Settings
+        1.1. Dark Theme
+        1.2. Light Theme
+        1.3. System Default Theme
 
 ## Getting Started
 
