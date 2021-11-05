@@ -5,6 +5,10 @@
         1.1. Dark Theme
         1.2. Light Theme
         1.3. System Default Theme
+    
+    2. Lnaguage Settings
+        2.1. English 
+        2.2. Bengali
 
 ## Getting Started
 
